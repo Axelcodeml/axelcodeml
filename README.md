@@ -30,7 +30,7 @@ Recently I've just obtained my Mater Degree as Blockchain Developer in CodeCrypt
 **_Stack_**: Python, FastAPI, NextJS, RestAPI <br>
 **_AI Agents_**: Codex, OpenCode, DeepSeek
 
-### ⚽ [World Cup 2026 Predictions](https://github.com/Axelcodeml/Mundial2026_Predictions)
+### 🏆🌍 [World Cup 2026 Predictions](https://github.com/Axelcodeml/Mundial2026_Predictions)
 **Who will win the World Cup 2026?** This project responds with data extracted by using Web Scrapping provided from different web pages of football results. It applies a pipeline to extract, cleand and train two XGBoost Models and simulates 50.000 world cups with **Monte Carlo Simulation** to estimate the performance of each football team until predict the results of the 104 matches of the tournament
 <br> 
 **Pipeline:** 
