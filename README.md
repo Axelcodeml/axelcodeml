@@ -1,4 +1,4 @@
-## Hi there, I'm Alex working now in Milenium Tech - Technical Education Institute as Data Scientist!👋
+## _Hi there, I'm Alex working now in Milenium Tech - Technical Education Institute as Data Scientist_!👋
 
 ### Now I want to share with the world with some of the projects and ideas that I have developed.
 
