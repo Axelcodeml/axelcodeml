@@ -1,19 +1,19 @@
 ## _Hi there, I'm Alex working now in Milenium Tech - Technical Education Institute as Data Scientist_!👋
 
-### Now I want to share with the world with some of the projects and ideas that I have developed.
+### Now I want to share with the world some of the projects and repositories I have developed, both in a professional and personal field.
 
 🚀 Data Scientist and Blockchain and Smart Contract Developer 
 📍 Quito - Ecuador
 🎓 Automation Engineer specialized in AI and Blokchain
 
-### 🧑‍💻 About me
+## 🧑‍💻 About me
 
 I graduated of **Bachelor in Automation Engineer Engineering** but then I dedicated my career into Data Science and AI field since 2022. 
 I started as BI specialist where I develeped data pipelines for ETLs by using Pentaho, PySpark, Python and SQL, then since 2024 I switched to Data Scientist to build and deploy different models into production to predict many situations to solve commercial questions of the business.
 
 Recently I've just obtained my Mater Degree as Blockchain Developer in CodeCrypto Academy where I learnt advanced techniques for developing Smart Contracts by usign Spec-Driven and AI Agents.
 
-### 📶 Data Science Projects
+## 📶 Data Science Projects
 
 ### 🏛️ [Expected Credit Loss](https://github.com/Axelcodeml/Expected_Credit_Loss)
 
