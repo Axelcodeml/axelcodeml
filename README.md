@@ -2,9 +2,9 @@
 
 ### Now I want to share with the world some of the projects and repositories I have developed, both in a professional and personal field.
 
-🚀 Data Scientist and Blockchain and Smart Contract Developer 
-📍 Quito - Ecuador
-🎓 Automation Engineer specialized in AI and Blokchain
+🚀 Data Scientist and Blockchain and Smart Contract Developer <br>
+📍 Quito - Ecuador <br>
+🎓 Automation Engineer specialized in AI and Blokchain <br>
 
 ## 🧑‍💻 About me
 
