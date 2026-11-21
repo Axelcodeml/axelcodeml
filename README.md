@@ -49,7 +49,7 @@ Recently I've just obtained my Mater Degree as Blockchain Developer in CodeCrypt
 ***
 ## 🧊 Blockchain & Web3 Projects
 
-### ⛓️ [Solana Based Industrial Traceability and Certifications](https://github.com/Axelcodeml/Solana-Based-Industrial_Traceability)
+### ⛓️ [Industrial Traceability and Certifications based on Solana](https://github.com/Axelcodeml/Solana-Based-Industrial_Traceability)
 This project connects the signal processings from a energy drink manufacturing plant to a Blockchain based Industrial Traceability. On the one hand we use a PLC to be collected to the Smart Contract built in Anchor Achitecture and Rust Programming. It manages 4 stages of manufacturing: ph Level, Temperature, Filling and Packaging, each one being controlled by the limits set up on frontend and signed onto the Solana Blockchain to create a certificate that endorses the quality of the final goods produced, that is, batch of energy drink.  
 
 **Architecture:**
