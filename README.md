@@ -33,7 +33,7 @@ Recently I've just obtained my Mater Degree as Blockchain Developer in CodeCrypt
 **_AI Agents_**: Codex, OpenCode, DeepSeek
 
 ### 🏆🌍 [World Cup 2026 Predictions](https://github.com/Axelcodeml/Mundial2026_Predictions)
-**Who will win the World Cup 2026?** This project responds with data extracted by using Web Scrapping provided from different web pages of football results. It applies a pipeline to extract, cleand and train two XGBoost Models and simulates 50.000 world cups with **Monte Carlo Simulation** to estimate the performance of each football team until predict the results of the 104 matches of the tournament
+**Who will win the World Cup 2026?** This project responds with data extracted by using Web Scrapping provided from different web pages of football results. It applies a pipeline to extract, cleand and train two XGBoost Models and simulates 50.000 world cups with **Monte Carlo Simulation** to estimate the performance of each football team until predict the winner from the 104 matches of the tournament.
 <br> 
 **Pipeline:** 
 1. Scraping
@@ -47,10 +47,18 @@ Recently I've just obtained my Mater Degree as Blockchain Developer in CodeCrypt
 **_Stack:_** Python, BeautifulSoup, XGBoost, MonteCarlo, HTML, GitHub Actions
 
 ***
-## 🧊 Blockchain Projects
+## 🧊 Blockchain & Web3 Projects
 
-### ⛓️ [Solana & Rust Programming](https://github.com/Axelcodeml/Solana-Based-Industrial_Traceability)
+### ⛓️ [Solana Based Industrial Traceability and Certifications](https://github.com/Axelcodeml/Solana-Based-Industrial_Traceability)
+This project connects the signal processings from a energy drink manufacturing plant to a Blockchain based Industrial Traceability. On the one hand we use a PLC to be collected to the Smart Contract built in Anchor Achitecture and Rust Programming. It manages 4 stages of manufacturing: ph Level, Temperature, Filling and Packaging, each one being controlled by the limits set up on frontend and signed onto the Solana Blockchain to create a certificate that endorses the quality of the final goods produced, that is, batch of energy drink.  
 
+**Architecture:**
+1. Physical Layer: PLC S7-1200, Sensors
+2. Middleware: FastAPI
+3. Backend: RESTapi, Anchor, Rust
+4. Frontend: NextJS, TypeScript 
+
+**_Stack:_** TypeScript, NextJS, Python, Rust, Anchor, CSS 
 
 
 <!--
