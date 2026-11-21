@@ -6,6 +6,7 @@
 📍 Quito - Ecuador <br>
 🎓 Automation Engineer specialized in AI and Blokchain <br>
 
+***
 ## 🧑‍💻 About me
 
 I graduated of **Bachelor in Automation Engineer Engineering** but then I dedicated my career into Data Science and AI field since 2022. 
@@ -13,6 +14,7 @@ I started as BI specialist where I develeped data pipelines for ETLs by using Pe
 
 Recently I've just obtained my Mater Degree as Blockchain Developer in CodeCrypto Academy where I learnt advanced techniques for developing Smart Contracts by usign Spec-Driven and AI Agents.
 
+***
 ## 📶 Data Science Projects
 
 ### 🏛️ [Expected Credit Loss](https://github.com/Axelcodeml/Expected_Credit_Loss)
@@ -44,8 +46,7 @@ Recently I've just obtained my Mater Degree as Blockchain Developer in CodeCrypt
 
 **_Stack:_** Python, BeautifulSoup, XGBoost, MonteCarlo, HTML, GitHub Actions
 
----------------------------------------------------------------------------------------------------------------------------------------------
-
+***
 ## 🧊 Blockchain Projects
 
 ### ⛓️ [Solana & Rust Programming](https://github.com/Axelcodeml/Solana-Based-Industrial_Traceability)
