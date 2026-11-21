@@ -44,6 +44,8 @@ Recently I've just obtained my Mater Degree as Blockchain Developer in CodeCrypt
 
 **_Stack:_** Python, BeautifulSoup, XGBoost, MonteCarlo, HTML, GitHub Actions
 
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 🧊 Blockchain Projects
 
 ### ⛓️ [Solana & Rust Programming](https://github.com/Axelcodeml/Solana-Based-Industrial_Traceability)
