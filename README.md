@@ -55,12 +55,20 @@ This project connects the signal processings from a energy drink manufacturing p
 **Architecture:**
 1. Physical Layer: PLC S7-1200, Sensors
 2. Middleware: FastAPI
-3. Backend: RESTapi, Anchor, Rust
-4. Frontend: NextJS, TypeScript 
+3. Blockchain: Solana Network
+4. Backend: RESTapi, Anchor, Rust
+5. Frontend: NextJS, TypeScript 
 
-**_Stack:_** TypeScript, NextJS, Python, Rust, Anchor, CSS 
+**_Stack:_** TypeScript, NextJS, Python, Rust, Anchor, CSS, Javascript
 
+### 🔗 [Industrial Traceability and Certifications based on Ethereum](https://github.com/Axelcodeml/Ethereum-Based-Industrial_Traceability.git)
 
+**Architecture:**
+1. Blokchain: Ethereum Virtual Machine
+2. Backend: RESTapi, Solidity, Anvil
+3. Frontend: NextJS, TypeScript 
+
+**_Stack:_** TypeScript, NextJS, Python, Solidity, Anvil, CSS, Javascript
 <!--
 **Axelcodeml/axelcodeml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
